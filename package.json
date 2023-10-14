@@ -1,0 +1,10 @@
+{
+  "name": "mac-custom_nav_bar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^27.0.0"
+  }
+}
